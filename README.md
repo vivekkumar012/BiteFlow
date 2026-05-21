@@ -1,4 +1,4 @@
-# 🍔 BiteFlow — Zomato Clone with Microservices
+# 🍔 BiteFlow — Food Delivery Application with Microservices
 
 > A full-stack food delivery platform built with Node.js microservices, RabbitMQ, Socket.IO, and deployed on Render + Vercel.
 
